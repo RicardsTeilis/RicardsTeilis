@@ -1,4 +1,4 @@
-### Hi there 👋
+### Salutations 👋
 
 I'm a .NET Developer with experience in both front-end and back-end development, including database design, SQL, API integration and web content management.
 
